@@ -1,0 +1,12 @@
+
+05-14-2025 19:56:25.792100 CST 127.0.0.1 [info]: referer: NULL REFERER El archivo C:\xampp\htdocs\jjcf_desarrollo_de_log\index.php ha sido cargado Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+05-14-2025 19:56:36.940900 CST 127.0.0.1 [warning]: referer: http://localhost/jjcf_desarrollo_de_log/ CREDENCIALES INCORRECTAS ENVIADAS HACIA //localhost
+                             Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+05-14-2025 19:56:36.964100 CST 127.0.0.1 [info]: referer: http://localhost/jjcf_desarrollo_de_log/ El archivo C:\xampp\htdocs\jjcf_desarrollo_de_log\index.php ha sido cargado Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+05-14-2025 19:56:59.523800 CST 127.0.0.1 [warning]: referer:  EL USUARIO HA INTENTADO INGRESAR AL SISTEMA DE UNA MANERA INCORRECTA Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+05-14-2025 19:56:59.529500 CST 127.0.0.1 [info]: referer: NULL REFERER El archivo C:\xampp\htdocs\jjcf_desarrollo_de_log\index.php ha sido cargado Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+05-14-2025 19:58:12.604600 CST 127.0.0.1 [info]: referer: NULL REFERER El archivo C:\xampp\htdocs\jjcf_desarrollo_de_log\index.php ha sido cargado Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+05-14-2025 19:58:46.020900 CST 127.0.0.1 [warning]: referer: http://localhost/jjcf_desarrollo_de_log/?status=1 CREDENCIALES INCORRECTAS ENVIADAS HACIA //localhost
+                             Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+05-14-2025 19:58:46.039400 CST 127.0.0.1 [info]: referer: http://localhost/jjcf_desarrollo_de_log/?status=1 El archivo C:\xampp\htdocs\jjcf_desarrollo_de_log\index.php ha sido cargado Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+05-14-2025 19:58:57.198100 CST 127.0.0.1 [notice]: referer: http://localhost/jjcf_desarrollo_de_log/?status=7 EL CLIENTE INICIÓ SESIÓN SATISFACTORIAMENTE Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
